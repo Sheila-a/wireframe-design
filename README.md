@@ -6,6 +6,7 @@ This project is a simple app with wireframe design created from Helicarrier Reac
 
 - `React`
 - `Graphql` (mock data using **Graphql-Faker**)
+- `Apollo Client`
 
 ```jsx
 import {} from "react-dom";
@@ -16,5 +17,4 @@ const aff =() => {
         <div></div>
     )
 }
-code snippet
 ```

@@ -1,38 +1,88 @@
-.App {
-  text-align: center;
+.head {
+    background-image: linear-gradient(to right, #933f97, #711a75, #2c042e);
+    height: 6vh;
+    color: #fff;
+    text-transform: uppercase;
+    padding-left: 5vh;
+    padding-top: 2vh;
+    align-items: center;
+    justify-content: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.search {
+    margin-top: 5vh;
+    text-align: center;
+    margin-bottom: 5vh;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.search input {
+    font-size: 20px;
+    height: 40px;
+    width: 300px;
+    padding-left: 2vh;
+    background: #bb94bd;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.filters {
+    display: flex;
+    justify-content: center;
 }
 
-.App-link {
-  color: #61dafb;
+.filters p {
+    margin: 0 7vh;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.compo,
+h2 {
+    margin-left: 5vh;
+    margin-right: 5vh;
+}
+
+
+h4 {
+    font-size: 30px;
+}
+
+.flex-1,
+.flex-2 {
+    display: flex;
+    margin-bottom: 5vh;
+}
+
+.flex-1 {
+    flex-direction: column;
+}
+
+.flex-2 p {
+    flex: 1;
+}
+
+.flex-2 div {
+    flex: 5;
+}
+
+.iidd {
+    background-color: #bb94bd;
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 9vh;
+    font-size: 30px;
+    margin-right: 2vh;
+}
+
+.items {
+    background-color: #711a75;
+    color: #fff;
+    padding: 2vh 0 2vh 2vh;
+}
+
+.iidd2 {
+    background-color: #dbd5db;
+    color: #711a75;
+}
+
+.items2 {
+    background-color: #bb94bd;
+    color: #711a75;
 }

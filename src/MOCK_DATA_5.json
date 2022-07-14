@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "first_name": "Roberta",
+    "last_name": "Cockings",
+    "email": "rcockings0@opera.com",
+    "gender": "Female",
+    "ip_address": "40.17.76.251"
+  },
+  {
+    "id": 2,
+    "first_name": "Ernesta",
+    "last_name": "Haversum",
+    "email": "ehaversum1@dailymotion.com",
+    "gender": "Female",
+    "ip_address": "211.142.188.198"
+  },
+  {
+    "id": 3,
+    "first_name": "Massimo",
+    "last_name": "Ravenshaw",
+    "email": "mravenshaw2@webs.com",
+    "gender": "Male",
+    "ip_address": "201.231.86.243"
+  },
+  {
+    "id": 4,
+    "first_name": "Jerald",
+    "last_name": "Bourgeois",
+    "email": "jbourgeois3@columbia.edu",
+    "gender": "Polygender",
+    "ip_address": "57.29.207.240"
+  },
+  {
+    "id": 5,
+    "first_name": "Annmaria",
+    "last_name": "Chadwin",
+    "email": "achadwin4@furl.net",
+    "gender": "Female",
+    "ip_address": "35.68.130.234"
+  },
+  {
+    "id": 6,
+    "first_name": "Cory",
+    "last_name": "Rottcher",
+    "email": "crottcher5@umn.edu",
+    "gender": "Male",
+    "ip_address": "160.98.38.136"
+  }
+]
