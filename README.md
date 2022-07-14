@@ -18,3 +18,14 @@ const aff =() => {
 }
 code snippet
 ```
+
+## METHODOLOGY
+I wasn't able to get the graphql API running before the deadline of this task so I mocked data from a site called mockaroo.com and saved the data as a JSON file with data collected as 
+- ID
+- First Name
+- Last Name
+- Gender
+- Email
+- IP Address
+
+I also wasn't able to group them in the API so I had 5 different data files and used the map method to display them. I then hard coded the gates as a group effect. I used the filter method to ensure that when only First and Last Name are searched, they would be displayed and when they don't match, nothing will be rendered
